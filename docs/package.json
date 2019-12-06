@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bustobocanegra/test-sources-are-docs-vuepress/issues"
   },
-  "homepage": "https://github.com/bustobocanegra/test-sources-are-docs-vuepress#readme"
+  "homepage": "https://github.com/bustobocanegra/test-sources-are-docs-vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
 }
