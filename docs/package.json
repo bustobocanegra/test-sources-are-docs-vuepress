@@ -1,0 +1,28 @@
+{
+  "name": "@test-sources-are-docs-vuepress/docs",
+  "version": "0.1.0",
+  "description": "Test sources=docs deployed with VuePress",
+  "scripts": {
+    "info": "vuepress info",
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bustobocanegra/test-sources-are-docs-vuepress.git"
+  },
+  "keywords": [
+    "vue",
+    "vuepress"
+  ],
+  "author": "Busto Bocanegra <info@bustobocanegra.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bustobocanegra/test-sources-are-docs-vuepress/issues"
+  },
+  "homepage": "https://github.com/bustobocanegra/test-sources-are-docs-vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
